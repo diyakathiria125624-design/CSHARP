@@ -1,0 +1,7 @@
+D:\C#.net\UNIT3\Program8\bin\Debug\Program8.exe.config
+D:\C#.net\UNIT3\Program8\bin\Debug\Program8.exe
+D:\C#.net\UNIT3\Program8\bin\Debug\Program8.pdb
+D:\C#.net\UNIT3\Program8\obj\Debug\Program8.csproj.AssemblyReference.cache
+D:\C#.net\UNIT3\Program8\obj\Debug\Program8.csproj.CoreCompileInputs.cache
+D:\C#.net\UNIT3\Program8\obj\Debug\Program8.exe
+D:\C#.net\UNIT3\Program8\obj\Debug\Program8.pdb
