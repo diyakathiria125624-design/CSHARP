@@ -1,0 +1,7 @@
+D:\C#.net\UNIT5\Program24\obj\Debug\Program24.csproj.AssemblyReference.cache
+D:\C#.net\UNIT5\Program24\obj\Debug\Program24.csproj.CoreCompileInputs.cache
+D:\C#.net\UNIT5\Program24\bin\Debug\Program24.exe.config
+D:\C#.net\UNIT5\Program24\bin\Debug\Program24.exe
+D:\C#.net\UNIT5\Program24\bin\Debug\Program24.pdb
+D:\C#.net\UNIT5\Program24\obj\Debug\Program24.exe
+D:\C#.net\UNIT5\Program24\obj\Debug\Program24.pdb
